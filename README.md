@@ -1,11 +1,6 @@
 <div>
-
-  ### Olá, Eu sou a Emanuele Bittencourt :wave:  
- 
- 
-  ![t3staa GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanueleBittencourt&show_icons=true&theme=shadow_blue)
+### Olá, Eu sou a Emanuele Bittencourt :wave:
   
-
 ### Tecnologias que uso no meu dia 
 <div style="display: inline_block">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
